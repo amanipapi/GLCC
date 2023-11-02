@@ -1,18 +1,4 @@
-export default {
-	currentSong: {
-		playback: {},
-		soundObj: {},
-		detail: {
-			id: 1,
-			title: 'የለወጥ አመት',
-			author: '2016',
-			img: 'https://agapeglc.com/wp-content/uploads/2023/09/Transformation-1.jpg',
-			uri: 'https://agapeglc.com/wp-content/uploads/2023/09/2016-%E1%8B%93.%E1%88%9D.-%E1%8B%A8%E1%88%88%E1%8B%8D%E1%8C%A5-%E1%8B%93%E1%88%98%E1%89%B5.mp3',
-			durationMillis: 884000,
-		},
-		playbackStatus: {},
-	},
-	songs: [
+
 		{
 			id: 1,
 			title: 'የለወጥ አመት',
@@ -93,5 +79,3 @@ export default {
 			uri: 'https://agapeglc.com/wp-content/uploads/2023/10/09-The-Name-of-Jesus-Book-Review.mp3',
 			durationMillis: 3667000,
 		},
-	],
-};
