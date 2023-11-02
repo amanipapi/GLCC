@@ -1,4 +1,4 @@
-
+const songData = [
 		{
 			id: 1,
 			title: 'የለወጥ አመት',
@@ -79,3 +79,6 @@
 			uri: 'https://agapeglc.com/wp-content/uploads/2023/10/09-The-Name-of-Jesus-Book-Review.mp3',
 			durationMillis: 3667000,
 		},
+];
+
+export default songData;
