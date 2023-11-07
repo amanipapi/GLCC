@@ -1,72 +1,56 @@
     {
         "id": 2,
-        "title": "የኢየሱስ ስም 01",
+        "title": "ለውጥ 01",
         "author": "ሬቨረንድ ተዘራ ያሬድ",
-        "img": "https://agapeglc.com/wp-content/uploads/2023/10/Name-of-Jesus-600.jpg",
-        "uri": "https://agapeglc.com/wp-content/uploads/2023/10/01-The-Name-of-Jesus-Book-Review.mp3",
-        "durationMillis": 4529000
+        "img": "https://agapeglc.com/wp-content/uploads/2023/09/Transformation-1-150x150.jpg",
+        "uri": "https://agapeglc.com/wp-content/uploads/2023/09/01-Transformation.mp3",
+        "durationMillis": 5875000
     },
     {
         "id": 3,
-        "title": "የኢየሱስ ስም 02",
+        "title": "ለውጥ 02",
         "author": "ሬቨረንድ ተዘራ ያሬድ",
-        "img": "https://agapeglc.com/wp-content/uploads/2023/10/Name-of-Jesus-600.jpg",
-        "uri": "https://agapeglc.com/wp-content/uploads/2023/10/02-The-Name-of-Jesus-Book-Review.mp3",
-        "durationMillis": 3030000
+        "img": "https://agapeglc.com/wp-content/uploads/2023/09/Transformation-1-150x150.jpg",
+        "uri": "https://agapeglc.com/wp-content/uploads/2023/09/02-Transformation.mp3",
+        "durationMillis": 6255000
     },
     {
         "id": 4,
-        "title": "የኢየሱስ ስም 03",
+        "title": "ለውጥ 03",
         "author": "ሬቨረንድ ተዘራ ያሬድ",
-        "img": "https://agapeglc.com/wp-content/uploads/2023/10/Name-of-Jesus-600.jpg",
-        "uri": "https://agapeglc.com/wp-content/uploads/2023/10/03-The-Name-of-Jesus-Book-Review.mp3",
-        "durationMillis": 6322000
+        "img": "https://agapeglc.com/wp-content/uploads/2023/09/Transformation-1-150x150.jpg",
+        "uri": "https://agapeglc.com/wp-content/uploads/2023/09/03-Transformation.mp3",
+        "durationMillis": 2526000
     },
 		{
-    "id": 5,
-    "title": "የኢየሱስ ስም 04",
-    "author": "ሬቨረንድ ተዘራ ያሬድ",
-    "img": "https://agapeglc.com/wp-content/uploads/2023/10/Name-of-Jesus-600.jpg",
-    "uri": "https://agapeglc.com/wp-content/uploads/2023/10/04-The-Name-of-Jesus-Book-Review.mp3",
-    "durationMillis": 3724000
-},
-{
-    "id": 6,
-    "title": "የኢየሱስ ስም 05",
-    "author": "ሬቨረንድ ተዘራ ያሬድ",
-    "img": "https://agapeglc.com/wp-content/uploads/2023/10/Name-of-Jesus-600.jpg",
-    "uri": "https://agapeglc.com/wp-content/uploads/2023/10/05-The-Name-of-Jesus-Book-Review.mp3",
-    "durationMillis": 4630000
-},
-{
-    "id": 7,
-    "title": "የኢየሱስ ስም 06",
-    "author": "ሬቨረንድ ተዘራ ያሬድ",
-    "img": "https://agapeglc.com/wp-content/uploads/2023/10/Name-of-Jesus-600.jpg",
-    "uri": "https://agapeglc.com/wp-content/uploads/2023/10/06-The-Name-of-Jesus-Book-Review.mp3",
-    "durationMillis": 3163000
-},
-{
-    "id": 8,
-    "title": "የኢየሱስ ስም 07",
-    "author": "ሬቨረንድ ተዘራ ያሬድ",
-    "img": "https://agapeglc.com/wp-content/uploads/2023/10/Name-of-Jesus-600.jpg",
-    "uri": "https://agapeglc.com/wp-content/uploads/2023/10/07-The-Name-of-Jesus-Book-Review.mp3",
-    "durationMillis": 2654000
-},
-{
-    "id": 9,
-    "title": "የኢየሱስ ስም 08",
-    "author": "ሬቨረንድ ተዘራ ያሬድ",
-    "img": "https://agapeglc.com/wp-content/uploads/2023/10/Name-of-Jesus-600.jpg",
-    "uri": "https://agapeglc.com/wp-content/uploads/2023/10/08-The-Name-of-Jesus-Book-Review.mp3",
-    "durationMillis": 6219000
-},
-{
-    "id": 10,
-    "title": "የኢየሱስ ስም 09",
-    "author": "ሬቨረንድ ተዘራ ያሬድ",
-    "img": "https://agapeglc.com/wp-content/uploads/2023/10/Name-of-Jesus-600.jpg",
-    "uri": "https://agapeglc.com/wp-content/uploads/2023/10/09-The-Name-of-Jesus-Book-Review.mp3",
-    "durationMillis": 3667000
-}
+    		"id": 5,
+		    "title": "ለውጥ 04",
+		    "author": "ሬቨረንድ ተዘራ ያሬድ",
+		    "img": "https://agapeglc.com/wp-content/uploads/2023/09/Transformation-1-150x150.jpg",
+		    "uri": "https://agapeglc.com/wp-content/uploads/2023/09/04-Transformation.mp3",
+		    "durationMillis": 2113000
+		},
+		{
+    		"id": 6,
+		    "title": "ለውጥ 04",
+		    "author": "ሬቨረንድ ተዘራ ያሬድ",
+		    "img": "https://agapeglc.com/wp-content/uploads/2023/09/Transformation-1-150x150.jpg",
+		    "uri": "https://agapeglc.com/wp-content/uploads/2023/10/05-Transformation.mp3",
+		    "durationMillis": 2113000
+		},
+		{
+    		"id": 7,
+		    "title": "ለውጥ 04",
+		    "author": "ሬቨረንድ ተዘራ ያሬድ",
+		    "img": "https://agapeglc.com/wp-content/uploads/2023/09/Transformation-1-150x150.jpg",
+		    "uri": "https://agapeglc.com/wp-content/uploads/2023/10/06-Transformation.mp3",
+		    "durationMillis": 2113000
+		},
+		{
+    		"id": 8,
+		    "title": "ለውጥ 04",
+		    "author": "ሬቨረንድ ተዘራ ያሬድ",
+		    "img": "https://agapeglc.com/wp-content/uploads/2023/09/Transformation-1-150x150.jpg",
+		    "uri": "https://agapeglc.com/wp-content/uploads/2023/10/07-Transformation.mp3",
+		    "durationMillis": 2113000
+		},
